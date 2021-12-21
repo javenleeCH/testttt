@@ -1,0 +1,77 @@
+[
+    {
+        "hour": "2018/8/1",
+        "location": "register",
+        "price": 2208
+    },
+    {
+        "hour": "2018/8/2",
+        "location": "register",
+        "price": 2016
+    },
+    {
+        "hour": "2018/8/3",
+        "location": "register",
+        "price": 2916
+    },
+    {
+        "hour": "2018/8/4",
+        "location": "register",
+        "price": 4512
+    },
+    {
+        "hour": "2018/8/5",
+        "location": "register",
+        "price": 8281
+    },
+    {
+        "hour": "2018/8/6",
+        "location": "register",
+        "price": 2008
+    },
+    {
+        "hour": "2018/8/7",
+        "location": "register",
+        "price": 1963
+    },
+    {
+        "hour": "2018/8/8",
+        "location": "register",
+        "price": 2367
+    },
+    {
+        "hour": "2018/8/9",
+        "location": "register",
+        "price": 2956
+    },
+    {
+        "hour": "2018/8/10",
+        "location": "register",
+        "price": 678
+    },
+    {
+        "hour": "2018/8/11",
+        "location": "register",
+        "price": 3188
+    },
+    {
+        "hour": "2018/8/12",
+        "location": "register",
+        "price": 3491
+    },
+    {
+        "hour": "2018/8/13",
+        "location": "register",
+        "price": 2852
+    },
+    {
+        "hour": "2018/8/14",
+        "location": "register",
+        "price": 4788
+    },
+    {
+        "hour": "2018/8/15",
+        "location": "register",
+        "price": 4319
+    }
+]

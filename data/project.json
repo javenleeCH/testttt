@@ -1,0 +1,186 @@
+[
+  {
+    "complete": "1",
+    "coordinates": "121.647364,28.746293",
+    "describe": "已完成",
+    "install_cap": 10.28,
+    "project_address": "浙江省临海市头门港新区吉利大道88号",
+    "project_name": "临海项目（台州）"
+  },
+  {
+    "complete": "1",
+    "coordinates": "120.52767,30.584146",
+    "describe": "已完成",
+    "install_cap": 2.6177,
+    "project_address": "浙江省嘉兴市桐乡市文晖路419号",
+    "project_name": "桐乡变速器"
+  },
+  {
+    "complete": "1",
+    "coordinates": "121.344177,30.320044",
+    "describe": "已完成",
+    "install_cap": 0.396,
+    "project_address": "浙江省宁波市杭州湾新区滨海五路762号",
+    "project_name": "杭州湾宁海备件中心"
+  },
+  {
+    "complete": "1",
+    "coordinates": "121.292462,30.348221",
+    "describe": "已完成",
+    "install_cap": 3.74,
+    "project_address": "浙江省宁波市杭州湾新区滨海七路178号",
+    "project_name": "杭州湾舒兹曼座椅"
+  },
+  {
+    "complete": "1",
+    "coordinates": "119.973141,31.027196",
+    "describe": "合同已签订，备案已完成，基础部分施工完成",
+    "install_cap": 23.89,
+    "project_address": "浙江省湖州市长兴县太湖街道中央大道888号",
+    "project_name": "长兴新能源"
+  },
+  {
+    "complete": "1",
+    "coordinates": "121.967007,29.76731",
+    "describe": "合同已签订，备案已完成，基础部分施工完成",
+    "install_cap": 27.73,
+    "project_address": "浙江省宁波市北仑区梅山街道港城路118号",
+    "project_name": "梅山DMA"
+  },
+  {
+    "complete": "1",
+    "coordinates": "121.323197,30.293206",
+    "describe": "合同已签订，备案中",
+    "install_cap": 30.0,
+    "project_address": "浙江省宁波市杭州湾新区滨海六路688号",
+    "project_name": "杭州湾PMA"
+  },
+  {
+    "complete": "1",
+    "coordinates": "109.020361,34.532643",
+    "describe": "框架合同已签订，项目公司注册中",
+    "install_cap": 70.0,
+    "project_address": "西安经济技术开发区泾渭新城吉利大道666号",
+    "project_name": "西安项目"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.052654,30.256737",
+    "describe": "方案汇报，合同拟签订",
+    "install_cap": 36.0,
+    "project_address": "浙江省余姚市中意宁波生态园滨海大道18号",
+    "project_name": "余姚领克"
+  },
+  {
+    "complete": "0",
+    "coordinates": "119.948922,31.029635",
+    "describe": "前期设计交流中",
+    "install_cap": 8.0,
+    "project_address": "浙江省湖州市长兴县太湖街道白溪大道6号",
+    "project_name": "长兴变速器"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.741137,29.229779",
+    "describe": "商务洽谈，方案设计",
+    "install_cap": 5.0,
+    "project_address": "浙江省宁波市宁海县宁松线",
+    "project_name": "吉宁零部件"
+  },
+  {
+    "complete": "0",
+    "coordinates": "114.06702,30.265793",
+    "describe": "前期设计",
+    "install_cap": 25.0,
+    "project_address": "湖北省武汉市汉南区纱帽大道",
+    "project_name": "路特斯武汉"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.566464,28.540943",
+    "describe": "初步对接，需加固",
+    "install_cap": 34.0,
+    "project_address": "浙江省台州市路桥区金清镇黄金大道88号",
+    "project_name": "巨科铝业"
+  },
+  {
+    "complete": "0",
+    "coordinates": "118.096735,36.864855",
+    "describe": "合同流程中，日方暂停",
+    "install_cap": 3.76,
+    "project_address": "山东省淄博市高新区宝山路777号",
+    "project_name": "山东国金"
+  },
+  {
+    "complete": "0",
+    "coordinates": "114.772534,40.650801",
+    "describe": "初步对接",
+    "install_cap": 17.0,
+    "project_address": "张家口市南山经济技术开发区中瑞大街2号",
+    "project_name": "张家口基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "120.544728,30.343207",
+    "describe": "初步对接",
+    "install_cap": 10.0,
+    "project_address": "浙江省杭州市萧山区大江东产业集聚区丰悦路1555号",
+    "project_name": "大江东基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.892782,29.750894",
+    "describe": "初步对接",
+    "install_cap": 10.0,
+    "project_address": "浙江省宁波市北仑区春晓大道188号",
+    "project_name": "春晓基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.250586,30.32844",
+    "describe": "初步对接",
+    "install_cap": 8.0,
+    "project_address": "慈溪市滨海二路818号",
+    "project_name": "杭州湾基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "107.431564,34.331417",
+    "describe": "初步对接",
+    "install_cap": 10.0,
+    "project_address": "陕西省宝鸡市陈仓区磻溪镇凤鸣街道9号",
+    "project_name": "宝鸡基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "117.291292,36.71412",
+    "describe": "初步对接",
+    "install_cap": 18.0,
+    "project_address": "山东省济南市历城区济南春晖路1777",
+    "project_name": "济南基地"
+  },
+  {
+    "complete": "0",
+    "coordinates": "121.413057,28.65834",
+    "describe": "1MW合同已签订，厂房需加固，二期在建",
+    "install_cap": 5.0,
+    "project_address": "浙江省台州市椒江区文思路",
+    "project_name": "钱江摩托"
+  },
+  {
+    "complete": "0",
+    "coordinates": "114.071241,30.307179",
+    "describe": "初步对接",
+    "install_cap": 5.0,
+    "project_address": "武汉市汉南区纱帽街薇湖路100号",
+    "project_name": "武汉飞车"
+  },
+  {
+    "complete": "0",
+    "coordinates": "117.189503,36.77842",
+    "describe": "新工厂设计",
+    "install_cap": 12.6,
+    "project_address": "济南市历城区高新区机械和交通设备园区",
+    "project_name": "济南新建"
+  }
+]

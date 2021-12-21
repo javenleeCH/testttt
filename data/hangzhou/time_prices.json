@@ -1,0 +1,227 @@
+[
+    {
+        "hour": "2018/8/1",
+        "location": "download",
+        "price": 4623
+    },
+    {
+        "hour": "2018/8/1",
+        "location": "register",
+        "price": 2208
+    },
+    {
+        "hour": "2018/8/1",
+        "location": "bill",
+        "price": 182
+    },
+    {
+        "hour": "2018/8/2",
+        "location": "download",
+        "price": 6145
+    },
+    {
+        "hour": "2018/8/2",
+        "location": "register",
+        "price": 2016
+    },
+    {
+        "hour": "2018/8/2",
+        "location": "bill",
+        "price": 257
+    },
+    {
+        "hour": "2018/8/3",
+        "location": "download",
+        "price": 508
+    },
+    {
+        "hour": "2018/8/3",
+        "location": "register",
+        "price": 2916
+    },
+    {
+        "hour": "2018/8/3",
+        "location": "bill",
+        "price": 289
+    },
+    {
+        "hour": "2018/8/4",
+        "location": "download",
+        "price": 6268
+    },
+    {
+        "hour": "2018/8/4",
+        "location": "register",
+        "price": 4512
+    },
+    {
+        "hour": "2018/8/4",
+        "location": "bill",
+        "price": 428
+    },
+    {
+        "hour": "2018/8/5",
+        "location": "download",
+        "price": 6411
+    },
+    {
+        "hour": "2018/8/5",
+        "location": "register",
+        "price": 8281
+    },
+    {
+        "hour": "2018/8/5",
+        "location": "bill",
+        "price": 619
+    },
+    {
+        "hour": "2018/8/6",
+        "location": "download",
+        "price": 1890
+    },
+    {
+        "hour": "2018/8/6",
+        "location": "register",
+        "price": 2008
+    },
+    {
+        "hour": "2018/8/6",
+        "location": "bill",
+        "price": 87
+    },
+    {
+        "hour": "2018/8/7",
+        "location": "download",
+        "price": 4251
+    },
+    {
+        "hour": "2018/8/7",
+        "location": "register",
+        "price": 1963
+    },
+    {
+        "hour": "2018/8/7",
+        "location": "bill",
+        "price": 706
+    },
+    {
+        "hour": "2018/8/8",
+        "location": "download",
+        "price": 2978
+    },
+    {
+        "hour": "2018/8/8",
+        "location": "register",
+        "price": 2367
+    },
+    {
+        "hour": "2018/8/8",
+        "location": "bill",
+        "price": 387
+    },
+    {
+        "hour": "2018/8/9",
+        "location": "download",
+        "price": 3880
+    },
+    {
+        "hour": "2018/8/9",
+        "location": "register",
+        "price": 2956
+    },
+    {
+        "hour": "2018/8/9",
+        "location": "bill",
+        "price": 488
+    },
+    {
+        "hour": "2018/8/10",
+        "location": "download",
+        "price": 3606
+    },
+    {
+        "hour": "2018/8/10",
+        "location": "register",
+        "price": 678
+    },
+    {
+        "hour": "2018/8/10",
+        "location": "bill",
+        "price": 507
+    },
+    {
+        "hour": "2018/8/11",
+        "location": "download",
+        "price": 4311
+    },
+    {
+        "hour": "2018/8/11",
+        "location": "register",
+        "price": 3188
+    },
+    {
+        "hour": "2018/8/11",
+        "location": "bill",
+        "price": 548
+    },
+    {
+        "hour": "2018/8/12",
+        "location": "download",
+        "price": 4116
+    },
+    {
+        "hour": "2018/8/12",
+        "location": "register",
+        "price": 3491
+    },
+    {
+        "hour": "2018/8/12",
+        "location": "bill",
+        "price": 456
+    },
+    {
+        "hour": "2018/8/13",
+        "location": "download",
+        "price": 6419
+    },
+    {
+        "hour": "2018/8/13",
+        "location": "register",
+        "price": 2852
+    },
+    {
+        "hour": "2018/8/13",
+        "location": "bill",
+        "price": 689
+    },
+    {
+        "hour": "2018/8/14",
+        "location": "download",
+        "price": 1643
+    },
+    {
+        "hour": "2018/8/14",
+        "location": "register",
+        "price": 4788
+    },
+    {
+        "hour": "2018/8/14",
+        "location": "bill",
+        "price": 280
+    },
+    {
+        "hour": "2018/8/15",
+        "location": "download",
+        "price": 445
+    },
+    {
+        "hour": "2018/8/15",
+        "location": "register",
+        "price": 4319
+    },
+    {
+        "hour": "2018/8/15",
+        "location": "bill",
+        "price": 176
+    }
+]
